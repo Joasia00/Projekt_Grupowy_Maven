@@ -2,7 +2,7 @@ package pl.sda.maven;
 
 import java.util.Scanner;
 
-public class KlasaKamil {
+public class KlasaKamil2 {
     public static void main(String[] args) {
         String imie = "";
         String nazwisko = "";
